@@ -1,0 +1,14 @@
+package com.jatin;
+
+public enum Bank {
+    HDFC_BANK,
+    STATE_BANK_OF_INDIA,
+    ICICI_BANK,
+    AXIS_BANK,
+    KOTAK_MAHINDRA_BANK,
+    INDUSIND_BANK,
+    YES_BANK,
+    PUNJAB_NATIONAL_BANK,
+    BANK_OF_BARODA,
+    BANK_OF_INDIA
+}
