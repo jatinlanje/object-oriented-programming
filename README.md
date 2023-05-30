@@ -7,9 +7,9 @@ The system should allow managing customer accounts, performing transactions, and
 Implement the following functionalities:
 
 ### Account Creation:
--The system should allow creating new customer accounts with the following details: bank, ifsc, customer name, account number, initial deposit amount.
--Each account should have a unique account number.
--Automatically generate the IFSC code based on the bank name.
+-The system should allow creating new customer accounts with the following details: bank, ifsc, customer name, account number, initial deposit amount. <br>
+-Each account should have a unique account number. <br>
+-Automatically generate the IFSC code based on the bank name. <br>
 -The initial deposit amount should be greater than or equal to a specified minimum balance.
 
 ### Account Validation: 
@@ -19,8 +19,8 @@ Implement the following functionalities:
 -Implement a role-based access control system with different user roles (e.g., administrator, cashier) and associated permissions to restrict access to specific functionalities.
 
 ### Account Management:
--The system should provide functionalities to deposit and withdraw money from customer accounts.
--Implement appropriate validations to ensure that withdrawal doesn't exceed the available balance.
+-The system should provide functionalities to deposit and withdraw money from customer accounts. <br>
+-Implement appropriate validations to ensure that withdrawal doesn't exceed the available balance. <br>
 -Provide functionalities to display customer account information, including customer name, account number, account balance, bank and ifsc.
 
 ### Transaction History:
